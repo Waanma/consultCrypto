@@ -1,0 +1,12 @@
+[
+  { "id": "0", "name": "Bitcoin", "ticker": "BTC", "price": "50000" },
+  { "id": "1", "name": "Ethereum", "ticker": "ETH", "price": "3000" },
+  { "id": "2", "name": "Ripple", "ticker": "XRP", "price": "1.00" },
+  { "id": "3", "name": "Litecoin", "ticker": "LTC", "price": "200" },
+  { "id": "4", "name": "Cardano", "ticker": "ADA", "price": "2.50" },
+  { "id": "5", "name": "Polkadot", "ticker": "DOT", "price": "15.00" },
+  { "id": "6", "name": "Stellar", "ticker": "XLM", "price": "0.40" },
+  { "id": "7", "name": "Chainlink", "ticker": "LINK", "price": "25.00" },
+  { "id": "8", "name": "Dogecoin", "ticker": "DOGE", "price": "0.10" },
+  { "id": "9", "name": "Uniswap", "ticker": "UNI", "price": "30.00" }
+]
